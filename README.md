@@ -44,3 +44,5 @@
 1. 検索結果の一番最初の１個について、`collectionName` と `trackName` を表示してみよう。
 1. できる人は、検索結果のすべてについて、`collectionName` と `trackName` を表示してみよう。（加点対象外）
 1. ものすごくできる人は、検索結果の `collectionName` を、重複を取り除いて表示してみよう。（加点対象外）
+
+aaa
